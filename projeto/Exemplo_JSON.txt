@@ -1,0 +1,35 @@
+{
+    "NomeMapa":"Mapa1",
+    "Trechos":[
+        {
+            "Origem":"A",
+            "Destino":"B",
+            "Distancia":"10"
+        },
+        {
+            "Origem":"B",
+            "Destino":"D",
+            "Distancia":"15"
+        },
+        {
+            "Origem":"A",
+            "Destino":"C",
+            "Distancia":"20"
+        },
+        {
+            "Origem":"C",
+            "Destino":"D",
+            "Distancia":"30"
+        },
+        {
+            "Origem":"B",
+            "Destino":"E",
+            "Distancia":"50"
+        },
+        {
+            "Origem":"D",
+            "Destino":"E",
+            "Distancia":"30"
+        }
+    ]
+}
